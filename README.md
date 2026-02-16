@@ -1,0 +1,82 @@
+# 🎓 Academic Projects Hub
+> **Engenharia Informática e de Computadores (Licenciatura)** | Portefólio Centralizado de Projetos | Nota de Curso: 17.74/20.00  
+> **Computer Science & Engineering (BSc)** | Centralized Project Portfolio | Course Grade: 17.74/20.00  
+
+---
+
+## 🌍 Language / Língua
+* [English Version](#-academic-projects-en)
+* [Versão Portuguesa](#-projetos-académicos-pt)
+
+---
+
+---
+
+## 🇬🇧 Academic Projects (EN)
+
+### 1st Year
+| Course (UC) | Project Name | Tech Stack | Grade | Deliverables |
+| :--- | :--- | :--- | :--- | :--- |
+| **Foundations of Programming (FP)** | "GO" Board Game Engine | `Python` | Grade |  [Code/Repo](#) |
+| **Programming Logic (LP)** | "Trees and Tents" Logic Solver | `Prolog` | Grade | [Code/Repo](#) |
+| **Algorithms & Data Structures (IAED)** | Parking Lot Management System | `C` | Grade | [Code/Repo](#) |
+| **Computer Architecture (IAC)** | K-Means Algorithm Optimization | `RISC-V Assembly` | Grade | [Code/Repo](#) |
+
+### 2nd Year
+| Course (UC) | Project Name | Tech Stack | Grade | Deliverables |
+| :--- | :--- | :--- | :--- | :--- |
+| **Object-Oriented Programming (PO)** | Veterinary Hospital Management App | `Java` | Grade | [Code/Repo](#) |
+| **Operating Systems (SO)** | Multi-threaded Subscription System | `C` | Grade | [Code/Repo](#) |
+| **Analysis & Synthesis of Alg. (ASA)** | Linear & Dynamic Programming | `C++`, `Python` | Grade | [Code/Repo](#) |
+| **Human-Computer Interaction (IPM)** | High-Fidelity Prototype | `Figma` | Grade | [Design/Link](#) |
+| **Databases (BD)** | Aviation Management System | `PostgreSQL`, `Python`, `Flask` | Grade | [Code/Repo](#) |
+| **Artificial Intelligence (IA)** | Search & Constraint Satisfaction - "LITS" | `Python` | Grade | [Code/Repo](#) |
+
+### 3rd Year
+| Course (UC) | Project Name | Tech Stack | Grade | Deliverables |
+| :--- | :--- | :--- | :--- | :--- |
+| **Computer Organization (OC)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+| **Machine Learning (Apre)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+| **Analysis & Modeling of Systems (AMS)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+| **Computer Networks (RC)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+| **Distributed Systems (SD)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+| **Software Engineering (ES)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+| **Compilers (Comp)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+| **Computer Graphics (CG)** | Coming soon... | `TBD` | Grade | [Code/Repo](#) |
+
+---
+
+## 🇵🇹 Projetos Académicos (PT)
+
+### 1º Ano
+| Disciplina | Projeto | Tecnologias | Nota | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Fundamentos da Programação (FP)** | Jogo "GO" | `Python` | Nota | [Código/Repo](#) |
+| **Lógica de Programação (LP)** | Solucionador do "Árvores e Tendas" | `Prolog` | Nota | [Código/Repo](#) |
+| **Algoritmos e Estruturas de Dados (IAED)** | Sistema de Parque de Estacionamento | `C` | Nota | [Código/Repo](#) |
+| **Arquitetura de Computadores (IAC)** | Otimização do K-Means | `RISC-V Assembly` | Nota | [Código/Repo](#) |
+
+### 2º Ano
+| Disciplina | Projeto | Tecnologias | Nota | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Programação com Objetos (PO)** | App de Hotel Veterinário | `Java` | Nota | [Código/Repo](#) |
+| **Sistemas Operativos (SO)** | Sistema de Subscrições Multi-threaded  | `C` | Nota | [Código/Repo](#) |
+| **Análise e Síntese de Algoritmos (ASA)** | Programação Linear e Dinâmica | `C++`, `Python` | Nota | [Código/Repo](#) |
+| **Interação (IPM)** | Protótipo de Alta Fidelidade | `Figma` | Nota | [Design/Link](#) |
+| **Bases de Dados (BD)** | Sistema de Aviação | `PostgreSQL`, `Python`, `Flask` | Nota | [Código/Repo](#) |
+| **Inteligência Artificial (IA)** | Problemas de Procura e Satisfação de Restrições - jogo "LITS"  | `Python` | Nota | [Design/Link](#) |
+
+### 3º Ano
+| Disciplina | Projeto | Tecnologias | Nota | Links |
+| :--- | :--- | :--- | :--- | :--- |
+| **Organização de Computadores (OC)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+| **Aprendizagem (Apre)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+| **Análise e Modelação de Sistemas (AMS)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+| **Redes e Computadores (RC)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+| **Sistemas Distribuidos (SD)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+| **Engenharia de Software (ES)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+| **Compiladores (Comp)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+| **Computação Gráfica (CG)** | Em breve... | `Em breve...` | Nota | [Código/Repo](#) |
+
+
+
