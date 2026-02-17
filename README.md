@@ -17,7 +17,7 @@
 ### 1st Year
 | Course (UC) | Project Name | Tech Stack | Grade | Deliverables |
 | :--- | :--- | :--- | :--- | :--- |
-| **Foundations of Programming (FP)** | "GO" Board Game Engine | `Python` | Grade |  [Code/Repo](#) |
+| **Foundations of Programming (FP)** | Mountains & Valleys / "GO" Engine | `Python` | 18.63/20.00  | [Code/Repo](./first-year/FP/) |
 | **Programming Logic (LP)** | "Trees and Tents" Logic Solver | `Prolog` | Grade | [Code/Repo](#) |
 | **Algorithms & Data Structures (IAED)** | Parking Lot Management System | `C` | Grade | [Code/Repo](#) |
 | **Computer Architecture (IAC)** | K-Means Algorithm Optimization | `RISC-V Assembly` | Grade | [Code/Repo](#) |
@@ -51,7 +51,7 @@
 ### 1º Ano
 | Disciplina | Projeto | Tecnologias | Nota | Links |
 | :--- | :--- | :--- | :--- | :--- |
-| **Fundamentos da Programação (FP)** | Jogo "GO" | `Python` | Nota | [Código/Repo](#) |
+| **Fundamentos da Programação (FP)** | Montanhas e Vales / Jogo "GO" | `Python` | 18.63/20.00 | [Código/Repo](./first-year/FP/) |
 | **Lógica de Programação (LP)** | Solucionador do "Árvores e Tendas" | `Prolog` | Nota | [Código/Repo](#) |
 | **Algoritmos e Estruturas de Dados (IAED)** | Sistema de Parque de Estacionamento | `C` | Nota | [Código/Repo](#) |
 | **Arquitetura de Computadores (IAC)** | Otimização do K-Means | `RISC-V Assembly` | Nota | [Código/Repo](#) |
