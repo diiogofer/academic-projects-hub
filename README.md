@@ -30,7 +30,7 @@
 | **Analysis & Synthesis of Alg. (ASA)** | Linear & Dynamic Programming, Graphs | `C++`, `Python` | 20.00/20.00 | [Code/Repo](./second-year/ASA/) |
 | **Human-Computer Interaction (IPM)** | UX/UI Design & Selection Optimization | `Figma, JS (p5.js), Firebase` | 19.50/20.00 | [Code/Docs](./second-year/IPM/) |
 | **Databases (BD)** | Aviation Management System | `PostgreSQL`, `Python`, `Flask` | 20.00/20.00 | [Code/Docs](./second-year/BD/) |
-| **Artificial Intelligence (IA)** | Search & Constraint Satisfaction - "LITS" | `Python` | Grade | [Code/Repo](#) |
+| **Artificial Intelligence (IA)** | Search & Constraint Satisfaction - "LITS", Forward Checking | `Python`, `Search` | 20.00/20.00 | [Code/Repo](./second-year/AI/)  |
 
 ### 3rd Year
 | Course (UC) | Project Name | Tech Stack | Grade | Deliverables |
@@ -61,10 +61,10 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Programação com Objetos (PO)** | App de Hotel Veterinário | `Java` | 19.40/20.00 | [Código/Repo](https://github.com/diiogofer/VetHotelManager) |
 | **Sistemas Operativos (SO)** | Sistema de Subscrições Multi-threaded  | `C`, `Multithreading`, `IPC`, `POSIX` | 19.91/20.00 | [Código/Repo](https://github.com/diiogofer/Key-Value-Store) |
-| **Análise e Síntese de Algoritmos (ASA)** | Programação Linear e Dinâmica, Grafos | `C++`, `Python` | 20.00/20.00 | [Code/Repo](./second-year/ASA/) |
+| **Análise e Síntese de Algoritmos (ASA)** | Programação Linear e Dinâmica, Grafos | `C++`, `Python` | 20.00/20.00 | [Código/Repo](./second-year/ASA/) |
 | **Interação Pessoa-Máquina (IPM)** | Design UX/UI & Otimização de Seleção | `Figma, JS (p5.js), Firebase` | 19.50/20.00 | [Design/Docs](./second-year/IPM/) |
 | **Bases de Dados (BD)** | Sistema de Aviação | `PostgreSQL`, `Python`, `Flask` | 20.00/20.00 | [Código/Repo](./second-year/BD/) |
-| **Inteligência Artificial (IA)** | Problemas de Procura e Satisfação de Restrições - jogo "LITS"  | `Python` | Nota | [Design/Link](#) |
+| **Inteligência Artificial (IA)** | Problemas de Procura e Satisfação de Restrições - jogo "LITS", Forward Checking. | `Python`, `Search` | 20.00/20.00 | [Código/Repo](./second-year/AI/) |
 
 ### 3º Ano
 | Disciplina | Projeto | Tecnologias | Nota | Links |
