@@ -25,7 +25,7 @@
 ### 2nd Year
 | Course (UC) | Project Name | Tech Stack | Grade | Deliverables |
 | :--- | :--- | :--- | :--- | :--- |
-| **Object-Oriented Programming (PO)** | Veterinary Hospital Management App | `Java` | Grade | [Code/Repo](#) |
+| **Object-Oriented Programming (PO)** | Veterinary Hospital Management App | `Java` | 19.40/20.00 | [Code/Repo](https://github.com/diiogofer/VetHotelManager) |
 | **Operating Systems (SO)** | Multi-threaded Subscription System | `C` | Grade | [Code/Repo](#) |
 | **Analysis & Synthesis of Alg. (ASA)** | Linear & Dynamic Programming | `C++`, `Python` | Grade | [Code/Repo](#) |
 | **Human-Computer Interaction (IPM)** | High-Fidelity Prototype | `Figma` | Grade | [Design/Link](#) |
@@ -59,7 +59,7 @@
 ### 2º Ano
 | Disciplina | Projeto | Tecnologias | Nota | Links |
 | :--- | :--- | :--- | :--- | :--- |
-| **Programação com Objetos (PO)** | App de Hotel Veterinário | `Java` | Nota | [Código/Repo](#) |
+| **Programação com Objetos (PO)** | App de Hotel Veterinário | `Java` | 19.40/20.00 | [Código/Repo](https://github.com/diiogofer/VetHotelManager) |
 | **Sistemas Operativos (SO)** | Sistema de Subscrições Multi-threaded  | `C` | Nota | [Código/Repo](#) |
 | **Análise e Síntese de Algoritmos (ASA)** | Programação Linear e Dinâmica | `C++`, `Python` | Nota | [Código/Repo](#) |
 | **Interação (IPM)** | Protótipo de Alta Fidelidade | `Figma` | Nota | [Design/Link](#) |
