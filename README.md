@@ -27,7 +27,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Object-Oriented Programming (PO)** | Veterinary Hospital Management App | `Java` | 19.40/20.00 | [Code/Repo](https://github.com/diiogofer/VetHotelManager) |
 | **Operating Systems (SO)** | Multi-threaded Subscription System | `C`, `Multithreading`, `IPC`, `POSIX` | 19.91/20.00 | [Code/Repo](https://github.com/diiogofer/Key-Value-Store) |
-| **Analysis & Synthesis of Alg. (ASA)** | Linear & Dynamic Programming | `C++`, `Python` | Grade | [Code/Repo](#) |
+| **Analysis & Synthesis of Alg. (ASA)** | Linear & Dynamic Programming, Graphs | `C++`, `Python` | 20.00/20.00 | [Code/Repo](./second-year/ASA/) |
 | **Human-Computer Interaction (IPM)** | High-Fidelity Prototype | `Figma` | Grade | [Design/Link](#) |
 | **Databases (BD)** | Aviation Management System | `PostgreSQL`, `Python`, `Flask` | Grade | [Code/Repo](#) |
 | **Artificial Intelligence (IA)** | Search & Constraint Satisfaction - "LITS" | `Python` | Grade | [Code/Repo](#) |
@@ -61,7 +61,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | **Programação com Objetos (PO)** | App de Hotel Veterinário | `Java` | 19.40/20.00 | [Código/Repo](https://github.com/diiogofer/VetHotelManager) |
 | **Sistemas Operativos (SO)** | Sistema de Subscrições Multi-threaded  | `C`, `Multithreading`, `IPC`, `POSIX` | 19.91/20.00 | [Código/Repo](https://github.com/diiogofer/Key-Value-Store) |
-| **Análise e Síntese de Algoritmos (ASA)** | Programação Linear e Dinâmica | `C++`, `Python` | Nota | [Código/Repo](#) |
+| **Análise e Síntese de Algoritmos (ASA)** | Programação Linear e Dinâmica, Grafos | `C++`, `Python` | 20.00/20.00 | [Code/Repo](./second-year/ASA/) |
 | **Interação (IPM)** | Protótipo de Alta Fidelidade | `Figma` | Nota | [Design/Link](#) |
 | **Bases de Dados (BD)** | Sistema de Aviação | `PostgreSQL`, `Python`, `Flask` | Nota | [Código/Repo](#) |
 | **Inteligência Artificial (IA)** | Problemas de Procura e Satisfação de Restrições - jogo "LITS"  | `Python` | Nota | [Design/Link](#) |
