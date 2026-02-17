@@ -20,7 +20,7 @@
 | **Foundations of Programming (FP)** | Mountains & Valleys / "GO" Engine | `Python` | 18.63/20.00  | [Code/Repo](./first-year/FP/) |
 | **Programming Logic (LP)** | "Trees and Tents" Logic Solver | `Prolog` | 20.00/20.00 | [Code/Repo](https://github.com/diiogofer/TentsAndTreesSolver/) |
 | **Algorithms & Data Structures (IAED)** | Parking Lot Management System | `C` | 20.00/20.00 | [Code/Repo](https://github.com/diiogofer/Car-Park-Management) |
-| **Computer Architecture (IAC)** | K-Means Algorithm Optimization | `RISC-V Assembly` | Grade | [Code/Repo](#) |
+| **Computer Architecture (IAC)** | K-Means Clustering Optimization | `RISC-V Assembly` | 20.00/20.00 | [Code/Repo](./first-year/IAC/) |
 
 ### 2nd Year
 | Course (UC) | Project Name | Tech Stack | Grade | Deliverables |
@@ -54,7 +54,7 @@
 | **Fundamentos da Programação (FP)** | Montanhas e Vales / Jogo "GO" | `Python` | 18.63/20.00 | [Código/Repo](./first-year/FP/) |
 | **Lógica de Programação (LP)** | Solucionador "Árvores e Tendas" | `Prolog` | 20.00/20.00 | [Código/Repo](https://github.com/diiogofer/TentsAndTreesSolver/) |
 | **Algoritmos e Estruturas de Dados (IAED)** | Sistema de Gestão de Parques | `C` | 20.00/20.00 | [Código/Repo](https://github.com/diiogofer/Car-Park-Management) |
-| **Arquitetura de Computadores (IAC)** | Otimização do K-Means | `RISC-V Assembly` | Nota | [Código/Repo](#) |
+| **Arquitetura de Computadores (IAC)** | Otimização do K-Means | `RISC-V Assembly` | 20.00/20.00 | [Código/Repo](./first-year/IAC/) |
 
 ### 2º Ano
 | Disciplina | Projeto | Tecnologias | Nota | Links |
